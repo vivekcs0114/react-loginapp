@@ -1,0 +1,23 @@
+.loginLabel {
+    font-size: 30px;
+}
+.userIdLabel {
+    font-size: 20px;
+}
+.passwordLabel {
+    font-size: 20px;
+}
+.resetButton {
+    background: green;
+    font-size: 15px;
+}
+.submitButton {
+    font-size: 15px;
+    background: yellow;
+}
+.valid {
+    background: skyblue;
+}
+.notValid {
+    background: red;
+}
